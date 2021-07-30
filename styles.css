@@ -1,0 +1,18 @@
+h2 {
+    background-color: rgb(211, 204, 204);
+    text-align: center;
+    color: rgb(209, 58, 58);
+}
+
+body {
+    text-align: center;
+    background-color: rgb(189, 159, 159);
+}
+
+p {
+    font-size: larger;
+}
+
+div {
+    font-size: small;
+}
